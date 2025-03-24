@@ -39,7 +39,161 @@ values
 
 INSERT transaction (employee_id, products_sold, amount, transaction_date)
 values
-(3, 4, 117.45, 2025-03-17 11:39:20 );
+(3, 4, 117.45, '2025-03-17 11:37:18' );
+
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(3, 2, 56.35, '2025-03-17 11:58:20' );
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(7, 1, 48.45, '2025-03-17 12:02:45' );
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(9, 7, 318.85, '2025-03-17 12:27:28' );
+
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(9, 3, 118.78, '2025-03-17 12:50:19' );
+
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(7, 2, 27.67, '2025-03-17 12:27:28' );
+
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(9, 7, 67.44, '2025-03-17 13:48:17' );
+
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(3, 4, 176.98, '2025-03-17 13:15:36' );
+
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(3, 5, 367.9, '2025-03-17 13:45:19' );
+
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(7, 3, 112.28, '2025-03-18 11:18:07' );
+
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(7, 1, 39.82, '2025-03-18 12:34:11' );
+
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(7, 6, 212.56, '2025-03-18 13:23:16' );
+
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(3, 3, 98.18, '2025-03-18 13:12:09' );
+
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(9, 1, 67.44, '2025-03-18 11:09:12' );
+
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(3, 1, 48.45, '2025-03-18 12:26:12' );
+
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(7, 8, 429.98, '2025-03-18 11:15:13' );
+
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(3, 3, 125.87, '2025-03-18 13:20:37' );
+
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(9, 4, 162.45, '2025-03-19 11:22:13' );
+
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(9, 2, 27.67, '2025-03-19 12:30:10' );
+
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(7, 6, 88.34, '2025-03-19 12:56:17' );
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(7, 5, 219.67, '2025-03-19 12:47:18' );
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(7, 5, 312.34, '2025-03-19 11:30:32' );
+
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(3, 1, 39.82, '2025-03-19 13:11:13' );
+
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(9, 1, 63.98, '2025-03-19 12:27:28' );
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(3, 5, 275.45, '2025-03-20 11:59:12' );
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(3, 2, 55.24, '2025-03-20 13:42:21' );
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(7, 2, 79.63, '2025-03-20 13:39:32' );
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(9, 1, 67.44, '2025-03-20 13:50:54' );
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(7, 5, 312.34, '2025-03-20 11:14:31' );
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(3, 5, 384.87, '2025-03-21 11:22:06' );
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(9, 3, 227.32, '2025-03-21 12:10:21' );
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(7, 1, 39.82, '2025-03-21 11:05:12' );
+
+INSERT transaction (employee_id, products_sold, amount, transaction_date)
+values
+(7, 6, 144.12, '2025-03-21 11:10:45' );
+
+
+
+
+
+
+
 
 
 
