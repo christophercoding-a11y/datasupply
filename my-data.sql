@@ -28,9 +28,11 @@ from transaction
 group by employee_id;
 
 --  Return the total transaction amount on March 19, 2025 
-select sum(amount) tot_amt, count(*)
+select sum(amount) tot_amt, transaction_date,  count(*)
 from transaction
 where transaction_date = '2025-03-19';
+-- its returning null for some reason and i don't know why 
+
 
 -- Return the total contract amount
 select sum(amount) tot_amt
@@ -42,15 +44,24 @@ from contract
 group by employee_id;
 
 
+
 -- Return the employee name for each contract
-select client
-from contract
-group by client;
+select e.first_name, e.last_name
+from employee e
+join contract using (employee_id)
+-- its returning duplicate and i don't know how to fix that 
+
 
 -- Return each contract that will be completed after Dec 31, 2025
-select contract_id, employee_id
+select *
 from contract
-where 
+where completion_date >= '2025-12-31';
+
+
+
 
 -- Return the transaction or contract sale for each employee. If an employee did not have a sell Display 'N/A'
+
+-- i couldn't figure this one out 
+
 
